@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/sadia-bintay-mostafiz">LinkedIn</a> ·
-  <a href="(https://sadia-bintay-mostafiz.vercel.app/">Portfolio</a> ·
+  <a href="https://sadia-bintay-mostafiz.vercel.app/">Portfolio</a> ·
   <a href="mailto:shitol3080@gmail.com">Email</a>
 </p>
 
