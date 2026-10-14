@@ -21,7 +21,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science and Engineering graduate from Militay Institute of Science & Technology
-- 💻 Former Junior Web developer passionate about building responsive, accessible and user-friendly web application.
+- 💻 Former Junior Web developer at CSM Bangladesh Ltd. passionate about building responsive, accessible and user-friendly web application.
 - ⚛️ Experienced with React and actively strengthening my skills in Next.js, TypeScript, and modern frontend technologies
 - 🛠️ Enjoy transforming ideas into practical solutions through hands-on development and real-world projects.
 - 🚀 Committed to continuous learning, writing clean and maintainable code, and growing as a Frontend Engineer.
