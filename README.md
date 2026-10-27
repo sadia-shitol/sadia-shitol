@@ -37,7 +37,7 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 Bazar Dor
+### 🛒 Bazardor
 A Bengali-focused market-price web application.
 
 - Built with: Next.js, TypeScript, Tailwind CSS
